@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "vending-machine",
+    "password": null,
+    "database": "vending-machine-db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "vending-machine",
+    "password": null,
+    "database": "vending-machine-db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "vending-machine",
+    "password": null,
+    "database": "vending-machine-db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
